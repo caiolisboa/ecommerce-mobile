@@ -1,0 +1,88 @@
+Product 1 
+
+brand: Clássico
+description:  Compre o Relógio Technos Masculino Militar 2115MYJ/1P na Eclock, a maior loja de relógios do Brasil! Vamos conhecer um pouco mais sobre o produto? Possui mecanismo Analógico, a pulseira é na cor Prata, fabricada em Aço, com 24 cm de comprimento e possui Fecho Dobrável com Dois Botões. A Caixa (peça onde fica o mostrador) é fabricada em Aço, possui fundo do tipo Rosqueada, mede 4,2 cm de diâmetro, sem considerar a coroa, e 1,0 cm de espessura, o que é considerado tamanho Médio para relógios do gênero Masculino. O Relógio Technos Masculino Militar 2115MYJ/1P tem nível de resistência à água especificado em 5 ATM. Com relação as funções adicionais do relógio: possui Calendário Analógico com Data e Marcadores com Illuminator. É Fabricado por Technos da Amazonia Indústria e Comércio. CNPJ: 04628426/0001-45 e tem Garantia de 1 Ano com o Fornecedor.
+image: https://firebasestorage.googleapis.com/v0/b/proj-mobile-85951.appspot.com/o/relogios%2FTechnos%20Militar.webp?alt=media&token=42355c69-648d-45c5-a4af-175d8b38ef60
+price: 259
+title: Relógio Technos Militar
+
+Product 2 
+
+brand: Aventura
+description: ▸Mecanismo Digital - Módulo nº 5081
+▸Cronômetro de 1/1000 de segundo / Capacidade de medição: 99:59'59,999'' / Modos de medição: Tempo decorrido, tempo da volta, tempo parcial / Outros: Velocidade (0 a 1998 unidades/hora) / Entrada de distância (0,0 a 99,9) / Indicador de máquina (velocidade superior a 1225 unidades/hora)
+Temporizador Unidade de medição: 1 segundo Faixa de contagem: 24 horas / Configuração inicial da faixa de contagem: 1 minuto a 24 horas (incrementos de 1 minuto e 1 hora) Outros: Repetição automática
+▸Hora mundial 29 fusos horários mundiais (48 cidades + tempo universal coordenado), horário de verão (liga/desliga), troca de cidade de referência/hora mundial
+▸Sinalização a cada hora (Bip hora cheia) / Alarmes multifuncionais / Ativação e desativação do som de operação dos botões
+▸5 alarmes diários / Sinalização a cada hora
+image: https://firebasestorage.googleapis.com/v0/b/proj-mobile-85951.appspot.com/o/relogios%2Frelogio-casio-masculino-g-shock-ga-100-1a1dr-011.webp?alt=media&token=47908686-f3a1-4c2a-86e9-072fa7c2ef1b
+price: 699
+title: Relógio G-Shock 
+
+Product 3
+
+brand: Digital
+description: Compre o Relógio Digital Speedo Masculino Esportivo 81137G0EVNP9.Vamos conhecer um pouco mais sobre o produto? Possui mecanismo Digital, a pulseira é na cor Preto, fabricada em Poliuretano, com 28 cm de comprimento e possui Fecho Fivela. A Caixa (peça onde fica o mostrador) é fabricada em Poliuretano, possui fundo do tipo Parafusada, mede 4,9 cm de diâmetro, sem considerar a coroa, e 1,6 cm de espessura, o que é considerado tamanho Extra Grande para relógios do gênero Masculino. O Relógio Digital Speedo Masculino Esportivo 81137G0EVNP9 tem nível de resistência à água especificado em 10 ATM. Com relação as funções adicionais do relógio: possui Calendário Digital, Cronômetro Digital, Um Alarme Diário, Aviso de Hora Cheia (Função Chime) e Iluminação de Fundo. 
+image: https://firebasestorage.googleapis.com/v0/b/proj-mobile-85951.appspot.com/o/relogios%2Frelogio-digital-speedo-masculino-esportivo-81137g0evnp9.webp?alt=media&token=c43d2bd7-d124-4f56-9386-9ae47a0c244a
+price: 149.99
+title: Relógio Digital Speedo Esportivo
+
+Product 4
+
+brand: Elegante
+description: Compre o Relógio Orient Masculino Neo Sports Cronógrafo MGSSA005G1KX.Vamos conhecer um pouco mais sobre o produto• Possui mecanismo Analógico/Digital, a pulseira é na cor Dourado, fabricada em Aço, com 25 cm de comprimento e possui Fecho Dobrável com Dois Botões. A Caixa (peça onde fica o mostrador) é fabricada em Aço, possui fundo do tipo Rosqueada, mede 4,5 cm de diâmetro, sem considerar a coroa, e 1,4 cm de espessura, o que é considerado tamanho Grande para relógios do gênero Masculino. O Relógio Orient Masculino Neo Sports Cronógrafo MGSSA005G1KX tem nível de resistência à água especificado em 5 ATM. Com relação as funções adicionais do relógio: possui Calendário Digital, Cronômetro Digital, Um Alarme Diário, Timer e Iluminação de Fundo.
+image: https://firebasestorage.googleapis.com/v0/b/proj-mobile-85951.appspot.com/o/relogios%2Frelogio-orient-masculino-neo-sports-mgssa005g1kx.webp?alt=media&token=3e243a7c-915a-40d8-bcfb-5e3555a656f6
+price: 799.99
+title: Relógio Orient Neo Sports Cronógrafo
+
+Product 5
+
+brand: Elegante
+description: Compre o Relógio Technos Feminino Unique 2115UL/4B.Vamos conhecer um pouco mais sobre o produto? Possui mecanismo Analógico, a pulseira é na cor Dourado, fabricada em Aço, com 22 cm de comprimento e possui Fecho Joia. A Caixa (peça onde fica o mostrador) é fabricada em Aço, possui fundo do tipo De pressão, mede 3,9 cm de diâmetro, sem considerar a coroa, e 1,0 cm de espessura, o que é considerado tamanho Grande para relógios do gênero Feminino. O Relógio Technos Feminino Unique 2115UL/4B tem nível de resistência à água especificado em 5 ATM. Com relação as funções adicionais do relógio: possui Calendário Analógico com Data.
+image: https://firebasestorage.googleapis.com/v0/b/proj-mobile-85951.appspot.com/o/relogios%2Frelogio-lince-feminino-digital-preto-ldn4642lpxpx-01.webp?alt=media&token=d4f715c6-fa45-4df6-b951-edb59e938276
+price: 649
+title: Relógio Technos Elegance Unique
+
+Product 6
+
+brand: Smartwatch
+description: Compre o Smartwatch Tuguir Sport TGS36001.Vamos conhecer um pouco mais sobre o produto? Possui mecanismo Smartwatch, a pulseira é na cor Preto, fabricada em Silicone, com 26 cm de comprimento e possui Fecho Fivela. A Caixa (peça onde fica o mostrador) é fabricada em Poliuretano, mede 3,7 cm Larg x 4,5 cm Alt, sem considerar a coroa, e 1,1 cm de espessura, o que é considerado tamanho Grande para relógios do gênero Unissex. O Smartwatch Tuguir Sport TGS36001 tem nível de resistência à água especificado em IP68. Com relação as funções adicionais do relógio: possui Calendário Digital, Cronômetro Digital, Um Alarme Diário, Luz de Led, Notificação de chamadas, mensagens e redes sociais, Controle de música, Controle de passos, Controle de calorias e tempo de exercício, Medição de oxigênio no sangue, Monitoramento cardíaco e Monitoramento do sono. Compatiblidade: Bluetooth 5.0, Android 8, iOS 12 e Superiores. É Fabricado por Tuguir Relógios e tem Garantia de 1 Ano com o Fornecedor.
+image: https://firebasestorage.googleapis.com/v0/b/proj-mobile-85951.appspot.com/o/relogios%2Frelogio-smartwatch-mormaii-feminino-life-molifeaa-8j-01.webp?alt=media&token=d88f9e6e-808e-4162-9d35-85b954d2c8c7
+price: 499
+title: Smartwatch Tuguir Sport
+
+Product 7 
+
+brand: Digital
+description: Em 1991 a ORIENT DO BRASIL apresentou ao mercado - LINCE - Tal qual o felino, a agressividade e o arrojo, a leveza e a elegância, a precisão e a objetividade imprimiram à marca seu caráter singular, atendendo às expectativas daqueles que acompanham as tendências de estilo e moda dos Estados Unidos e da Europa.
+image: https://firebasestorage.googleapis.com/v0/b/proj-mobile-85951.appspot.com/o/relogios%2Frelogio-technos-feminino-elegance-unique-2115ul-4b.webp?alt=media&token=0bd58e93-827d-42ae-953f-01a711d2beda
+price: 275.99
+title: Relógio Lince Digital Led Preto
+
+Product 8 
+
+brand: Clássico
+description: Relógio Technos DIgiTech, que ultrapassa as fronteiras da relojoaria tradicional para unir o maquinismo digital ao analógico, sem perder sua essência clássica. Robusto, ele apresenta aro externo trabalhado com marcações em relevos, além de possuir um mostrador rico em detalhes, com módulo negativo, toques de cor e aplicação de peças metálicas. Produto 100% em aço inoxidável em banho dourado, anadigi, com luz noturna, cronômetro e resistência à água de 100m. Tamanho de caixa 48mm.
+image: https://firebasestorage.googleapis.com/v0/b/proj-mobile-85951.appspot.com/o/relogios%2Frelogio-technos-masculino-ts-digiana-bjk704aa-1p_1.webp?alt=media&token=21346d39-f6c7-4246-b942-efafa7e348a2
+price: 740
+title: Relógio Technos Digitech Dourado
+
+Product 9 
+
+brand: Aventura
+description: Compre o Relógio Tuguir Masculino TG30066. Vamos conhecer um pouco mais sobre o produto• Possui mecanismo Analógico/Digital, a pulseira é na cor Verde, fabricada em Poliuretano, com 29 cm de comprimento e possui Fecho Fivela. A Caixa (peça onde fica o mostrador) é fabricada em Poliuretano, possui fundo do tipo Parafusada, mede 5,0 cm de diâmetro, sem considerar a coroa, e 1,8 cm de espessura, o que é considerado tamanho Extra Grande para relógios do gênero Masculino. O Relógio Tuguir Masculino TG30066 tem nível de resistência à água especificado em 10 ATM. Com relação as funções adicionais do relógio: possui Calendário Digital, Cronômetro Digital, Um Alarme Diário, Aviso de Hora Cheia (Função Chime) e Iluminação de Fundo. É Fabricado por Tuguir Relógios e tem Garantia de 1 Ano com o Fornecedor.
+image: https://firebasestorage.googleapis.com/v0/b/proj-mobile-85951.appspot.com/o/relogios%2Frelogio-tuguir-masculino-tg30066-01_1.webp?alt=media&token=a467893d-ea22-4b46-97ad-e54940d3e02c
+price: 209
+title: Relógio Tuguir Masculino Preto
+
+Product 10 
+
+brand: Smartwatch
+description: Life foi pensado para você que busca um verdadeiro aliado de vida, com bateria de longa duração, resistência à àgua (5atm) e mais de 10 modalidades esportivas. esse modelo possui pulseira de polímero e aro rosé, caixa quadrada de 35mm e 35g, deixando-o leve e confortável.
+funcionalidades:
+- 8 mostradores;
+- passos, calorias, distância e tempo;
+- notificações de ligação, mensagens e redes sociais.
+image: https://firebasestorage.googleapis.com/v0/b/proj-mobile-85951.appspot.com/o/relogios%2Fsmartwatch-tuguir-sport-tgs36001-01.webp?alt=media&token=e9db57d9-cbd4-4d29-af30-5b10ccfe4743
+price: 499
+title: Smartwatch mormaii life 
